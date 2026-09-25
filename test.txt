@@ -1,4 +1,4 @@
 how this is updated
 this is feature-x text
-second branch new
+second branch new and this is make from the two-branch now
 now i again make changes on master directly from github
